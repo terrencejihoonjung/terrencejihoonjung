@@ -1,8 +1,8 @@
 [![header](./linkedinbanner.png)]([https://aar.one](https://terrencejung.com/))
 
-### hello there 👋
+## 👋 &nbsp;hello there
 
-#### a full stack developer passionate about building whatever the fuck i want! 
+### 💻 &nbsp;a full stack developer passionate about building whatever the fuck i want! 
 - **frontend**: html, css (tailwind), javascript/typescript, react/angular
 - **backend**: node.js/express.js, mongdodb, postgresql
 
