@@ -1,4 +1,9 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ ![linkedinbanner](https://github.com/user-attachments/assets/6ed224b9-1c10-4f21-bdf3-eb369f86e7f2)
+</picture>
+
 
 <!--
 **terrencejihoonjung/terrencejihoonjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
