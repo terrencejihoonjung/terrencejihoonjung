@@ -3,14 +3,20 @@
 ### hello there 👋
 
 #### a full stack developer passionate about building whatever the fuck i want! 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- **frontend**: html, css (tailwind), javascript/typescript, react/angular
+- **backend**: node.js/express.js, mongdodb, postgresql
 
-<div class="badges-githubstats">
-  <p align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="terrencejihoonjung's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="terrencejihoonjung's Streak" height="165">
-  </p>
-</div>
+### ⚙️ &nbsp;github stats
+
+<p align="center">
+  <a href="https://github.com/terrencejihoonjung">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=terrencejihoonjung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=terrencejihoonjung&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+### 🤝🏻 &nbsp;my socials
+
+[![LinkedIn](https://img.shields.io/badge/-terrencejung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrencejung/)](https://www.linkedin.com/in/terrencejung/)
+[![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/terrence_jung)](https://twitter.com/terrence_jung)
+
