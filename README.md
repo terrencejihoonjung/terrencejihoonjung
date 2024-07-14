@@ -2,7 +2,7 @@
 
 ## 👋 &nbsp;hello there
 
-### 💻 &nbsp;a full stack developer passionate about building whatever the fuck i want! 
+### 💻 &nbsp;a full stack developer passionate about building whatever the f*** i want ! 
 - **frontend**: html, css (tailwind), javascript/typescript, react/angular
 - **backend**: node.js/express.js, mongdodb, postgresql
 
