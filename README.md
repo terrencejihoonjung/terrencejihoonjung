@@ -3,8 +3,8 @@
 ## 👋 &nbsp;hello there
 
 ### 💻 &nbsp;a full stack developer passionate about building and learning ! 
-- **frontend**: html, css (tailwind), javascript/typescript, react/angular
-- **backend**: node.js/express.js, mongdodb, postgresql
+- **frontend**: typescript, react/nextjs, tailwindcss
+- **backend**: node.js/express.js, mySQL
 
 ### ⚙️ &nbsp;github stats
 
