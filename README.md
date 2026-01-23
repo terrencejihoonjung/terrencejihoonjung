@@ -18,5 +18,4 @@
 ### 🤝🏻 &nbsp;my socials
 
 [![LinkedIn](https://img.shields.io/badge/-terrencejung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terrencejung/)](https://www.linkedin.com/in/terrencejung/)
-[![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/terrence_jung)](https://twitter.com/terrence_jung)
 
